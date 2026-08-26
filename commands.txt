@@ -14,14 +14,9 @@ Id CommandLine
   12 git add .\commands.txt                                                                                       
   13 git status                                                                                                   
   14 git commit -m "added commands"                                                                               
-  15 git remote add origin https://github.com/Gaurav-Yadav-2/Git_Learning.git                                     
   16 git staus                                                                                                    
   17 git status                                                                                                   
   18 git push origin master                                                                                       
   19 git push origin main                                                                                         
-  20 git remote -v                                                                                                
-  21 https://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@github.com/Gaurav-Yadav-2/Git_Learning.git                  
-  22 git remote set-url origin https://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@github.com/Gaurav-Yadav-2/Git_L...
-  23 git remote -v                                                                                                
-  24 git push origin master                                                                                       
+  20 git remote -v                                                                                                                                                                                   
   25 git push origin main 
