@@ -1,0 +1,10 @@
+git add hello.cpp                                                        
+git add .                                                                
+git status                                                               
+git commit "added testing file"                                          
+git commit -m "added testing file"                                       
+rm hello.cpp                                                             
+git stat                                                                 
+git status                                                               
+git restore hello.cpp                                                    
+git history 
