@@ -1,10 +1,27 @@
-git add hello.cpp                                                        
-git add .                                                                
-git status                                                               
-git commit "added testing file"                                          
-git commit -m "added testing file"                                       
-rm hello.cpp                                                             
-git stat                                                                 
-git status                                                               
-git restore hello.cpp                                                    
-git history 
+Id CommandLine                                                                                                  
+  -- -----------                                                                                                  
+   1 git add hello.cpp                                                                                            
+   2 git add .                                                                                                    
+   3 git status                                                                                                   
+   4 git commit "added testing file"                                                                              
+   5 git commit -m "added testing file"                                                                           
+   6 rm hello.cpp                                                                                                 
+   7 git stat                                                                                                     
+   8 git status                                                                                                   
+   9 git restore hello.cpp                                                                                        
+  10 git history                                                                                                  
+  11 history                                                                                                      
+  12 git add .\commands.txt                                                                                       
+  13 git status                                                                                                   
+  14 git commit -m "added commands"                                                                               
+  15 git remote add origin https://github.com/Gaurav-Yadav-2/Git_Learning.git                                     
+  16 git staus                                                                                                    
+  17 git status                                                                                                   
+  18 git push origin master                                                                                       
+  19 git push origin main                                                                                         
+  20 git remote -v                                                                                                
+  21 https://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@github.com/Gaurav-Yadav-2/Git_Learning.git                  
+  22 git remote set-url origin https://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@github.com/Gaurav-Yadav-2/Git_L...
+  23 git remote -v                                                                                                
+  24 git push origin master                                                                                       
+  25 git push origin main 
