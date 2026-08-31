@@ -20,7 +20,7 @@ Id CommandLine
   19 git push origin main                                                                                         
   20 git remote -v                                                                                                                                                                                   
   25 git push origin main 
-
+  26 git history 
 
 
 this is new change on github
