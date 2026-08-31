@@ -19,7 +19,8 @@ Id CommandLine
   18 git push origin master                                                                                       
   19 git push origin main                                                                                         
   20 git remote -v                                                                                                                                                                                   
-  25 git push origin main 
+  25 git push origin main
+  26 git branch -D branch_name 
 
 
 
